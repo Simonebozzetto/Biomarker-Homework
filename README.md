@@ -1,6 +1,6 @@
 # Homework BPMDD
 
-Questo repository contiene materiali relativi al homework di Biomarkers, Precision Medicine and Drug Development. 
+Questa repository contiene materiali relativi all'homework di Biomarkers, Precision Medicine and Drug Development. 
 I dati vengono analizzati in MATLAB, R e JASP.
 
 ## Contenuto del repository
@@ -16,7 +16,7 @@ Nella repository, oltre al file PDF contenente il Scientific Report e al file co
 
 4) HomeworkBPMDD_LateralityTSPO.jasp
 	file contenente le analisi preliminari condotte con il software JASP.
-	Inoltre sono presenti altri formati per favorire l'utilizzo in altri programmi/ambienti come excel
+	Inoltre lo stesso file è presente in altri formati quali .csv e .xlsx 
 
 5) Homework_R_part.R
 	script R che documenta l’analisi effettuata tramite R. Per eseguire questo codice, è stato creato un nuovo file .mat (data_homework_R_part) con i dati già pronti per essere elaborati su R.
@@ -28,18 +28,18 @@ Nella repository, oltre al file PDF contenente il Scientific Report e al file co
 1. Aprire `codice_homework.m` in MATLAB.
 2. Assicurarsi che le funzioni swtest e LI_code siano nello stesso path/cartella.
 3. Caricare i dati (`Data_Homework.mat`) 
-4. Avviare l’analisi per step.
+4. Avviare l’analisi step by step anzichè eseguirla in un'unica volta.
 
 ### R
 
 1. Aprire `Homework_R_part.R` con RStudio.
-2. Carica i dati da `Data_Homework_for_R.mat`.
-3. Esegui il codice per le analisi statistiche.
+2. Caricare i dati da `Data_Homework_for_R.mat`.
+3. Eseguire il codice per le analisi statistiche.
 
 ### JASP
 
 1. Aprire `HomeworkBPMDD_LateralityTSPO.jasp` con JASP.
-2. Esplora le analisi già configurate o personalizzale a piacimento.
+2. Esplorare le analisi già configurate e personalizzate.
 
 
 ## Autori
