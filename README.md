@@ -19,7 +19,7 @@ Nella repository, oltre al file PDF contenente il Scientific Report e al file co
 	Inoltre sono presenti altri formati per favorire l'utilizzo in altri programmi/ambienti come excel
 
 5) Homework_R_part.R
-	script R che documenta l’analisi effettuata tramite R.
+	script R che documenta l’analisi effettuata tramite R. Per eseguire questo codice, è stato creato un nuovo file .mat (data_homework_R_part) con i dati già pronti per essere elaborati su R.
 
 ## Istruzioni
 
