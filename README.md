@@ -26,7 +26,7 @@ Nella repository, oltre al file PDF contenente il Scientific Report e al file co
 ### MATLAB
 
 1. Aprire `codice_homework.m` in MATLAB.
-2. Assicurarsi le funzioni swtest e LI_code siano nello stesso path/cartella.
+2. Assicurarsi che le funzioni swtest e LI_code siano nello stesso path/cartella.
 3. Caricare i dati (`Data_Homework.mat`) 
 4. Avviare l’analisi per step.
 
