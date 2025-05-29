@@ -1,0 +1,51 @@
+# Homework BPMDD
+
+Questo repository contiene materiali relativi al homework di Biomarkers, Precision Medicine and Drug Development. 
+I dati vengono analizzati in MATLAB, R e JASP.
+
+## Contenuto del repository
+Nella repository, oltre al file PDF contenente il Scientific Report e al file con la consegna, sono presenti i seguenti file di supporto:
+1) data_homework.mat
+	contiene i dati forniti, opportunamente modificati per poter essere caricati in MATLAB e utilizzati nelle analisi.
+
+2) codice_homework.m
+	include tutte le analisi effettuate in MATLAB, nonché i grafici generati e successivamente inseriti nel report.
+
+3) LI_code.m e swtest.m: 
+	due funzioni MATLAB utilizzate, rispettivamente, per il calcolo dell’indice di lateralizzazione e per l’esecuzione del test di Shapiro-Wilk.
+
+4) HomeworkBPMDD_LateralityTSPO.jasp
+	file contenente le analisi preliminari condotte con il software JASP.
+	inoltre sono presenti altri formati per favorire l'utilizzo in altri programmi/ambienti come excel
+
+5) Homework_R_part.R
+	script R che documenta l’analisi effettuata tramite R.
+
+## Istruzioni
+
+### MATLAB
+
+1. Aprire `codice_homework.m` in MATLAB.
+2. Assicurarsi le funzioni swtest e LI_code siano nello stesso path/cartella.
+3. Caricare i dati (`Data_Homework.mat`) 
+4. Avviare l’analisi per step.
+
+### R
+
+1. Aprire `Homework_R_part.R` con RStudio.
+2. Carica i dati da `Data_Homework_for_R.mat`.
+3. Esegui il codice per le analisi statistiche.
+
+### JASP
+
+1. Aprire `HomeworkBPMDD_LateralityTSPO.jasp` con JASP.
+2. Esplora le analisi già configurate o personalizzale a piacimento.
+
+
+## Autori
+
+- [Rebecca Annovi, Simone Bozzetto, Chiara De Bon, Francesca Lazzarotto]
+- Corso: [Biomarker Precision Medicine and Drug Development, Mattia Veronese]
+- Università: [Università degli Studi di Padova]
+
+---
