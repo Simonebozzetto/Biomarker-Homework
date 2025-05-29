@@ -16,7 +16,7 @@ Nella repository, oltre al file PDF contenente il Scientific Report e al file co
 
 4) HomeworkBPMDD_LateralityTSPO.jasp
 	file contenente le analisi preliminari condotte con il software JASP.
-	inoltre sono presenti altri formati per favorire l'utilizzo in altri programmi/ambienti come excel
+	Inoltre sono presenti altri formati per favorire l'utilizzo in altri programmi/ambienti come excel
 
 5) Homework_R_part.R
 	script R che documenta l’analisi effettuata tramite R.
