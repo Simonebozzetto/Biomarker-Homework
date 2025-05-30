@@ -1,6 +1,7 @@
 # Homework BPMDD
 
 Questa repository contiene materiali relativi all'homework di Biomarkers, Precision Medicine and Drug Development. 
+Link per accedere ai dati e codici in caso di problemi: https://github.com/Simonebozzetto/Biomarker-Homework.git (accessibile direttamente da visual abstract)
 I dati vengono analizzati in MATLAB, R e JASP.
 
 ## Contenuto del repository
