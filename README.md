@@ -4,7 +4,7 @@ Questa repository contiene materiali relativi all'homework di Biomarkers, Precis
 I dati vengono analizzati in MATLAB, R e JASP.
 
 ## Contenuto del repository
-Nella repository, oltre al file PDF contenente il Scientific Report e al file con la consegna, sono presenti i seguenti file di supporto:
+Nella repository, oltre ai PDF contenenti il Scientific Report, il Visual Abstract e alla consegna, sono presenti i seguenti file di supporto:
 1) data_homework.mat
 	contiene i dati forniti, opportunamente modificati per poter essere caricati in MATLAB e utilizzati nelle analisi.
 
